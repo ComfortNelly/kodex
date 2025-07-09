@@ -1,1 +1,1 @@
-# kodex
+# Global online store
